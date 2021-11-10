@@ -1,3 +1,5 @@
 @@||www.expressapisv2.net^
 @@||captive.apple.com^
 @@||localhost^
+@@||demdex.net^
+@@||pxf.io^
