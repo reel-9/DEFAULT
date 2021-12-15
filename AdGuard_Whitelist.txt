@@ -3,4 +3,5 @@
 @@||localhost^
 @@||demdex.net^
 @@||pxf.io^
-@@||googleservices.com^
+@@||www.googleadservices.com^
+@@||googleadservices.com^
