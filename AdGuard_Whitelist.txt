@@ -5,4 +5,4 @@
 @@||pxf.io^
 @@||www.googleadservices.com^
 @@||googleadservices.com^
-@@||vigilink.com^
+@@||redirect.viglink.com^
